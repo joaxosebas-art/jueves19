@@ -1,2 +1,3 @@
 print("hola como estan gente")
 print("como te llamas")
+print("tengo25 años")
